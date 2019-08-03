@@ -1,0 +1,35 @@
+
+body{
+    background-image: url(../images/whos-that-pokemon.jpg);
+    background-size: cover;     
+}
+
+
+h1{
+    color: red;
+    font-size: 20px;
+    padding-bottom: 10px;
+    font-weight: bolder;
+    text-align: center;
+}
+
+p{
+    color: red; 
+    /* padding-bottom: 5px; */
+    text-align: left;
+    margin-left: 50px;
+}
+
+ul{
+    color: red;
+    /* padding-bottom: 5px; */
+    text-align: left;
+    margin-left: 50px;
+}
+
+li{
+    color: red;
+    padding-bottom: 5px;
+    text-align: left;
+}
+
